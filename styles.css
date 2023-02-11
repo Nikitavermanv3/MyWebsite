@@ -14,3 +14,12 @@
     top: 6rem;
     width: 8rem;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.placeItemsCenter {
+    display: grid !important;
+    place-items: center !important;
+}
