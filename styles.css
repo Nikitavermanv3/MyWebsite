@@ -1,7 +1,15 @@
+.textColor {
+    color: #fe8300;
+}
+
+a h5:hover {
+    color: #fe8300;
+}
+
 .shaanBtn-primary {
     color: #fff !important;
-    background-color: #563d7c !important;
-    border-color: #563d7c !important;
+    background-color: #fe8300 !important;
+    border-color: #fe8300 !important;
 }
 
 .imgCardRounded {
